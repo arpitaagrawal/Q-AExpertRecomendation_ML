@@ -1,0 +1,1629 @@
+229440 722
+229440 0
+(array([ 15,  19,  37,  41,  45,  46,  47,  48,  49,  50,  51,  52,  53,
+        54,  55,  56,  57,  58,  59,  60,  61,  62,  63,  64,  65,  66,
+        67,  68,  69,  70,  71,  72,  73,  74,  75,  76,  77,  78,  79,
+        80,  81,  82,  83,  84,  85,  86,  87,  88,  89,  90,  91,  92,
+        93,  94,  95,  96,  97,  98,  99, 100, 101, 102, 103, 104, 105,
+       106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118,
+       119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131,
+       132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 143, 144, 145,
+       146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158,
+       159, 160, 161, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172,
+       173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185,
+       186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 197, 198, 199,
+       200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 213,
+       214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226,
+       227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239,
+       240, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253,
+       254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 266, 267,
+       268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 281,
+       282, 283, 284, 285, 286, 287, 288, 289, 291, 292, 293, 294, 295,
+       296, 298, 299, 300, 301, 302, 303, 304, 305, 307, 308, 309, 310,
+       311, 313, 314, 315, 317, 318, 320, 321, 322, 323, 324, 325, 326,
+       327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 340,
+       341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353,
+       354, 357, 358, 360, 361, 363, 364, 365, 367, 368, 370, 371, 373,
+       375, 377, 379, 380, 382, 383, 385, 387, 389, 390, 392, 396, 397,
+       399, 400, 404, 408, 412, 414, 419, 424, 435, 436, 437, 439, 633,
+       634, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 657,
+       658, 659, 660, 661, 662, 663, 664, 665, 667, 669, 670, 672, 674,
+       675, 677, 680, 685]),)
+229440 354
+229440 0
+Fitting 3 folds for each of 84 candidates, totalling 252 fits
+Memmaping (shape=(195024, 354), dtype=float64) to new file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done   1 tasks      | elapsed:  6.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done   2 tasks      | elapsed:  6.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+[Parallel(n_jobs=14)]: Done   3 tasks      | elapsed:  6.5min
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done   4 tasks      | elapsed:  7.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done   5 tasks      | elapsed:  7.6min
+[Parallel(n_jobs=14)]: Done   6 tasks      | elapsed:  7.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done   7 tasks      | elapsed:  8.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done   8 tasks      | elapsed:  8.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done   9 tasks      | elapsed:  8.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  10 tasks      | elapsed:  8.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  11 tasks      | elapsed:  8.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  12 tasks      | elapsed:  8.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  13 tasks      | elapsed:  8.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  14 tasks      | elapsed:  9.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  15 tasks      | elapsed: 14.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  16 tasks      | elapsed: 14.8min
+[Parallel(n_jobs=14)]: Done  17 tasks      | elapsed: 14.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  18 tasks      | elapsed: 15.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  19 tasks      | elapsed: 15.1min
+[Parallel(n_jobs=14)]: Done  20 tasks      | elapsed: 15.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  21 tasks      | elapsed: 15.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  22 tasks      | elapsed: 16.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  23 tasks      | elapsed: 16.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  24 tasks      | elapsed: 16.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  25 tasks      | elapsed: 17.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  26 tasks      | elapsed: 17.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  27 tasks      | elapsed: 17.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  28 tasks      | elapsed: 17.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  29 tasks      | elapsed: 21.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  30 tasks      | elapsed: 21.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  31 tasks      | elapsed: 23.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  32 tasks      | elapsed: 23.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  33 tasks      | elapsed: 23.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  34 tasks      | elapsed: 24.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  35 tasks      | elapsed: 24.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  36 tasks      | elapsed: 24.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  37 tasks      | elapsed: 24.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  38 tasks      | elapsed: 24.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  39 tasks      | elapsed: 25.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  40 tasks      | elapsed: 26.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  41 tasks      | elapsed: 26.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  42 tasks      | elapsed: 26.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  43 tasks      | elapsed: 31.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  44 tasks      | elapsed: 31.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  45 tasks      | elapsed: 32.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  46 tasks      | elapsed: 32.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  47 tasks      | elapsed: 32.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  48 tasks      | elapsed: 32.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  49 tasks      | elapsed: 33.4min
+[Parallel(n_jobs=14)]: Done  50 tasks      | elapsed: 33.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  51 tasks      | elapsed: 33.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  52 tasks      | elapsed: 34.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  53 tasks      | elapsed: 34.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  54 tasks      | elapsed: 35.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  55 tasks      | elapsed: 35.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  56 tasks      | elapsed: 35.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  57 tasks      | elapsed: 39.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  58 tasks      | elapsed: 40.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  59 tasks      | elapsed: 41.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  60 tasks      | elapsed: 41.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  61 tasks      | elapsed: 41.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  62 tasks      | elapsed: 42.0min
+[Parallel(n_jobs=14)]: Done  63 tasks      | elapsed: 42.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  64 tasks      | elapsed: 42.3min
+[Parallel(n_jobs=14)]: Done  65 tasks      | elapsed: 42.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  66 tasks      | elapsed: 42.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  67 tasks      | elapsed: 43.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  68 tasks      | elapsed: 44.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+[Parallel(n_jobs=14)]: Done  69 tasks      | elapsed: 44.5min
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  70 tasks      | elapsed: 44.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  71 tasks      | elapsed: 48.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  72 tasks      | elapsed: 49.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  73 tasks      | elapsed: 50.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  74 tasks      | elapsed: 50.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  75 tasks      | elapsed: 51.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  76 tasks      | elapsed: 51.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  77 tasks      | elapsed: 51.3min
+[Parallel(n_jobs=14)]: Done  78 tasks      | elapsed: 51.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  79 tasks      | elapsed: 51.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  80 tasks      | elapsed: 51.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  81 tasks      | elapsed: 52.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  82 tasks      | elapsed: 53.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  83 tasks      | elapsed: 53.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  84 tasks      | elapsed: 53.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  85 tasks      | elapsed: 57.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  86 tasks      | elapsed: 58.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  87 tasks      | elapsed: 59.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  88 tasks      | elapsed: 59.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  89 tasks      | elapsed: 60.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  90 tasks      | elapsed: 60.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  91 tasks      | elapsed: 60.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  92 tasks      | elapsed: 60.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  93 tasks      | elapsed: 60.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  94 tasks      | elapsed: 60.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  95 tasks      | elapsed: 61.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  96 tasks      | elapsed: 62.7min
+[Parallel(n_jobs=14)]: Done  97 tasks      | elapsed: 62.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  98 tasks      | elapsed: 62.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done  99 tasks      | elapsed: 67.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 100 tasks      | elapsed: 67.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 101 tasks      | elapsed: 68.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 102 tasks      | elapsed: 68.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 103 tasks      | elapsed: 68.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 104 tasks      | elapsed: 68.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 105 tasks      | elapsed: 69.2min
+[Parallel(n_jobs=14)]: Done 106 tasks      | elapsed: 69.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 107 tasks      | elapsed: 69.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 108 tasks      | elapsed: 69.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 109 tasks      | elapsed: 69.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 110 tasks      | elapsed: 71.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 111 tasks      | elapsed: 71.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+[Parallel(n_jobs=14)]: Done 112 tasks      | elapsed: 71.6min
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 113 tasks      | elapsed: 75.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 114 tasks      | elapsed: 76.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 115 tasks      | elapsed: 76.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 116 tasks      | elapsed: 77.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 117 tasks      | elapsed: 78.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 118 tasks      | elapsed: 78.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 119 tasks      | elapsed: 78.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 120 tasks      | elapsed: 78.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 121 tasks      | elapsed: 78.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 122 tasks      | elapsed: 78.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 123 tasks      | elapsed: 79.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 124 tasks      | elapsed: 80.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 125 tasks      | elapsed: 80.9min
+[Parallel(n_jobs=14)]: Done 126 tasks      | elapsed: 80.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 127 tasks      | elapsed: 84.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 128 tasks      | elapsed: 85.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 129 tasks      | elapsed: 85.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 130 tasks      | elapsed: 85.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 131 tasks      | elapsed: 86.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 132 tasks      | elapsed: 87.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 133 tasks      | elapsed: 87.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 134 tasks      | elapsed: 87.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+[Parallel(n_jobs=14)]: Done 135 tasks      | elapsed: 87.2min
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 136 tasks      | elapsed: 87.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 137 tasks      | elapsed: 87.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 138 tasks      | elapsed: 89.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 139 tasks      | elapsed: 89.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 140 tasks      | elapsed: 89.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 141 tasks      | elapsed: 93.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 142 tasks      | elapsed: 93.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 143 tasks      | elapsed: 94.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 144 tasks      | elapsed: 94.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 145 tasks      | elapsed: 95.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 146 tasks      | elapsed: 95.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 147 tasks      | elapsed: 96.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 148 tasks      | elapsed: 96.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 149 tasks      | elapsed: 96.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 150 tasks      | elapsed: 96.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 151 tasks      | elapsed: 96.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 152 tasks      | elapsed: 98.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 153 tasks      | elapsed: 98.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 154 tasks      | elapsed: 98.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 155 tasks      | elapsed: 102.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 156 tasks      | elapsed: 102.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 157 tasks      | elapsed: 103.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 158 tasks      | elapsed: 103.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 159 tasks      | elapsed: 104.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 160 tasks      | elapsed: 104.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 161 tasks      | elapsed: 105.2min
+[Parallel(n_jobs=14)]: Done 162 tasks      | elapsed: 105.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 163 tasks      | elapsed: 105.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 164 tasks      | elapsed: 105.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 165 tasks      | elapsed: 105.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 166 tasks      | elapsed: 107.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 167 tasks      | elapsed: 107.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 168 tasks      | elapsed: 108.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 169 tasks      | elapsed: 111.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 170 tasks      | elapsed: 112.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 171 tasks      | elapsed: 112.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 172 tasks      | elapsed: 112.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 173 tasks      | elapsed: 113.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 174 tasks      | elapsed: 113.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 175 tasks      | elapsed: 114.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 176 tasks      | elapsed: 114.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 177 tasks      | elapsed: 114.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 178 tasks      | elapsed: 114.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 179 tasks      | elapsed: 115.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 180 tasks      | elapsed: 116.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 181 tasks      | elapsed: 117.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 182 tasks      | elapsed: 117.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 183 tasks      | elapsed: 121.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 184 tasks      | elapsed: 121.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 185 tasks      | elapsed: 121.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 186 tasks      | elapsed: 122.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 187 tasks      | elapsed: 122.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 188 tasks      | elapsed: 122.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 189 tasks      | elapsed: 123.6min
+[Parallel(n_jobs=14)]: Done 190 tasks      | elapsed: 123.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 191 tasks      | elapsed: 123.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 192 tasks      | elapsed: 124.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 193 tasks      | elapsed: 124.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 194 tasks      | elapsed: 125.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 195 tasks      | elapsed: 126.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 196 tasks      | elapsed: 126.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 197 tasks      | elapsed: 130.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 198 tasks      | elapsed: 130.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 199 tasks      | elapsed: 130.9min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+[Parallel(n_jobs=14)]: Done 200 tasks      | elapsed: 131.0min
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 201 tasks      | elapsed: 131.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 202 tasks      | elapsed: 131.7min
+Memmaping (shape=(195024, 354), dtyp[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.213376, total= 5.2min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.215750, total= 4.6min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.213376, total= 5.6min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.225554, total= 5.3min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.213604, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.341916, total= 5.5min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.251500, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.526178, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.216116, total= 5.6min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.255406, total= 5.6min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.215787, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.256733, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.525624, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.256733, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.525624, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.251677, total= 5.8min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: e=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 203 tasks      | elapsed: 133.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 204 tasks      | elapsed: 133.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 205 tasks      | elapsed: 133.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 206 tasks      | elapsed: 133.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 207 tasks      | elapsed: 134.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 208 tasks      | elapsed: 135.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 209 tasks      | elapsed: 135.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 210 tasks      | elapsed: 136.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 211 tasks      | elapsed: 139.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 212 tasks      | elapsed: 140.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 213 tasks      | elapsed: 140.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 214 tasks      | elapsed: 140.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtyp[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.213354, total= 5.2min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.213376, total= 5.4min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.213469, total= 4.7min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.213376, total= 5.8min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.314403, total= 5.5min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.230109, total= 5.8min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.568876, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.251677, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.522226, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.216333, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.255406, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.525624, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.256733, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.525624, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.256733, total= 5.8min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.525624, total= 5.6min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.213357, total= 4.8min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.213357, total= 5.6min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.213357, total= 5.5min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.213354, total= 5.7min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.217609, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.214090, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.256733, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.531148, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.256733, total= 5.4min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.215787, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.256733, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.216333, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.513946, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.216116, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.513946, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.216333, total= 5.7min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1024[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.213376, total= 4.8min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.218188, total= 4.5min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.213824, total= 4.6min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.213354, total= 5.6min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.213652, total= 5.5min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.213357, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.256733, total= 5.8min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.504262, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.251677, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.548456, total= 5.6min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.216116, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.513946, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.216333, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.255406, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.215787, total= 5.8min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.256733, total= 5.8min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  ker[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.213354, total= 4.2min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.213357, total= 5.4min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.213536, total= 4.3min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.213376, total= 5.7min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.284625, total= 5.3min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.213366, total= 5.5min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.255406, total= 5.7min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.215787, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.256733, total= 5.4min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.525624, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.251677, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.548456, total= 5.4min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.216116, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.513946, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.216333, total= 5.8min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.255406, total= 6.0min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]e=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 215 tasks      | elapsed: 140.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 216 tasks      | elapsed: 140.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 217 tasks      | elapsed: 142.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 218 tasks      | elapsed: 142.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 219 tasks      | elapsed: 143.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 220 tasks      | elapsed: 143.5min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 221 tasks      | elapsed: 143.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 222 tasks      | elapsed: 144.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 223 tasks      | elapsed: 145.2min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 224 tasks      | elapsed: 145.6min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 225 tasks      | elapsed: 148.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 226 out of 252 | elapsed: 149.0min remaining: 17.1min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 227 out of 252 | elapsed: 149.2min remaining: 16.4min
+Memmaping (shap[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.213376, total= 4.2min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.213376, total= 5.5min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.213354, total= 5.6min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.226613, total= 5.6min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.213594, total= 5.7min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.336628, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.216116, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.519687, total= 5.6min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.216333, total= 5.4min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.513946, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.216333, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.255406, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.215787, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.251677, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.548456, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.216116, total= 5.8min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kern[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.213354, total= 5.4min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.213357, total= 5.3min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.213439, total= 4.7min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.213357, total= 5.8min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.306980, total= 5.3min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.229444, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.215787, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.256733, total= 5.6min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.215787, total= 5.6min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.251677, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.525624, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.251677, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.548456, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.216333, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.255406, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.215787, total= 5.8min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.213357, total= 5.2min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.213354, total= 5.3min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.213443, total= 4.7min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.213354, total= 5.8min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.213357, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.214180, total= 5.8min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.527706, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.216333, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.255406, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.525624, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.251677, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.548456, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.216116, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.548456, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.251677, total= 5.8min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.548456, total= 5.7min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV][CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.213357, total= 4.2min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.213354, total= 5.5min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.213357, total= 5.5min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.227561, total= 5.6min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.213376, total= 5.8min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.336459, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.216333, total= 5.8min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.255406, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.525624, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.256733, total= 5.7min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.548456, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.216116, total= 5.7min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.255406, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.215787, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.216116, total= 5.8min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.513946, total= 5.7min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kern[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.213354, total= 4.8min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.215555, total= 4.7min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.213376, total= 5.6min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.213357, total= 5.9min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.213354, total= 5.7min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.230679, total= 5.8min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.511793, total= 5.7min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.216116, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.548456, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.216116, total= 5.7min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.513946, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.215787, total= 5.7min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.251677, total= 5.8min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.513946, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.216333, total= 5.7min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.255406, total= 5.8min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  ke[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.213376, total= 5.6min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.213708, total= 4.4min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.213354, total= 5.6min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.213376, total= 5.8min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.326757, total= 5.3min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.214397, total= 5.8min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.255406, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.215787, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.251677, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.548456, total= 5.4min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.216116, total= 5.6min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.513946, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.216333, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.255406, total= 5.7min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.215787, total= 5.7min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.256733, total= 5.7min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=102[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.213376, total= 5.4min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.213376, total= 5.3min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.213376, total= 5.4min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.213357, total= 5.7min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.213385, total= 5.6min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.478992, total= 5.5min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.216333, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.255406, total= 5.4min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.215787, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.513946, total= 5.2min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.216333, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.255406, total= 5.4min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.9, 1: 1}, score=0.215787, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.256733, total= 5.5min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.525624, total= 5.5min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.251677, total= 5.7min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1024, m[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.213357, total= 5.4min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.213354, total= 5.4min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.213357, total= 5.5min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.284912, total= 5.4min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.216789, total= 5.5min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.499559, total= 5.5min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.216116, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.501118, total= 5.4min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.216333, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.256733, total= 5.3min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.215787, total= 5.5min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.251677, total= 5.5min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.548456, total= 5.5min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.5, 1: 1}, score=0.251677, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.548456, total= 5.6min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.216116, total= 5.7min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  k[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.213354, total= 5.4min
+[CV] kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=0.25, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.75, 1: 1}, score=0.213357, total= 5.4min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.25, 1: 1}, score=0.213354, total= 5.4min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.75, 1: 1}, score=0.285195, total= 5.4min
+[CV] kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=1, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.218254, total= 5.5min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.516428, total= 5.5min
+[CV] kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=4, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.251677, total= 5.5min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.573444, total= 5.3min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.216116, total= 5.7min
+[CV] kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=16, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.9, 1: 1}, score=0.255406, total= 5.3min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.5, 1: 1}, score=0.525624, total= 5.4min
+[CV] kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CV]  kernel=rbf, C=64, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1}, score=0.256733, total= 5.5min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.25, 1: 1}, score=0.525624, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.5, 1: 1}, score=0.216116, total= 5.6min
+[CV] kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1} 
+[CV]  kernel=rbf, C=256, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.015625, class_weight={0: 0.9, 1: 1}, score=0.513946, total= 5.6min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1} 
+[CV]  kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.25, class_weight={0: 0.25, 1: 1}, score=0.216333, total= 5.8min
+[CV] kernel=rbf, C=1024, max_iter=1000, tol=0.01, cache_size=1000, gamma=0.0625, class_weight={0: 0.75, 1: 1} 
+[CVe=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 228 out of 252 | elapsed: 149.2min remaining: 15.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 229 out of 252 | elapsed: 149.3min remaining: 15.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 230 out of 252 | elapsed: 149.9min remaining: 14.3min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 231 out of 252 | elapsed: 151.1min remaining: 13.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 232 out of 252 | elapsed: 151.2min remaining: 13.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 233 out of 252 | elapsed: 152.3min remaining: 12.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 234 out of 252 | elapsed: 152.6min remaining: 11.7min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 235 out of 252 | elapsed: 152.7min remaining: 11.0min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130015,), dtype=int64).
+Pickling array (shape=(65009,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 236 out of 252 | elapsed: 153.4min remaining: 10.4min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130016,), dtype=int64).
+Pickling array (shape=(65008,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 237 out of 252 | elapsed: 154.1min remaining:  9.8min
+Memmaping (shape=(195024, 354), dtype=float64) to old file /dev/shm/joblib_memmaping_pool_12915_140637504708816/12915-140636431691728-3663670b1a727527cf4308d806177e5a.pkl
+Pickling array (shape=(130017,), dtype=int64).
+Pickling array (shape=(65007,), dtype=int64).
+[Parallel(n_jobs=14)]: Done 238 out of 252 | elapsed: 154.9min remaining:  9.1min
+[Parallel(n_jobs=14)]: Done 239 out of 252 | elapsed: 157.3min remaining:  8.6min
+[Parallel(n_jobs=14)]: Done 240 out of 252 | elapsed: 158.0min remaining:  7.9min
+[Parallel(n_jobs=14)]: Done 241 out of 252 | elapsed: 158.0min remaining:  7.2min
+[Parallel(n_jobs=14)]: Done 242 out of 252 | elapsed: 158.2min remaining:  6.5min
+[Parallel(n_jobs=14)]: Done 243 out of 252 | elapsed: 158.2min remaining:  5.9min
+[Parallel(n_jobs=14)]: Done 244 out of 252 | elapsed: 158.5min remaining:  5.2min
+[Parallel(n_jobs=14)]: Done 245 out of 252 | elapsed: 159.0min remaining:  4.5min
+[Parallel(n_jobs=14)]: Done 246 out of 252 | elapsed: 159.2min remaining:  3.9min
+[Parallel(n_jobs=14)]: Done 247 out of 252 | elapsed: 159.8min remaining:  3.2min
+[Parallel(n_jobs=14)]: Done 248 out of 252 | elapsed: 159.9min remaining:  2.6min
+[Parallel(n_jobs=14)]: Done 249 out of 252 | elapsed: 160.0min remaining:  1.9min
+[Parallel(n_jobs=14)]: Done 250 out of 252 | elapsed: 160.4min remaining:  1.3min
+[Parallel(n_jobs=14)]: Done 252 out of 252 | elapsed: 161.1min remaining:    0.0s
+[Parallel(n_jobs=14)]: Done 252 out of 252 | elapsed: 161.1min finished
+Best parameters set found on development set:
+()
+{'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.75, 1: 1}}
+()
+Grid scores on development set:
+()
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.25, 1: 1}} time-188.478
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.25, 1: 1}} time-228.623
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.25, 1: 1}} time-239.677
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.5, 1: 1}} time-212.743
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.5, 1: 1}} time-232.349
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.5, 1: 1}} time-231.940
+0.216 (+/-0.002) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.75, 1: 1}} time-197.537
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.75, 1: 1}} time-229.058
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.75, 1: 1}} time-232.783
+0.214 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.9, 1: 1}} time-185.458
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.9, 1: 1}} time-228.346
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 0.25, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.9, 1: 1}} time-232.994
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.25, 1: 1}} time-202.048
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.25, 1: 1}} time-225.215
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.25, 1: 1}} time-228.756
+0.227 (+/-0.002) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.5, 1: 1}} time-226.622
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.5, 1: 1}} time-241.991
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.5, 1: 1}} time-242.220
+0.285 (+/-0.000) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.75, 1: 1}} time-224.183
+0.214 (+/-0.000) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.75, 1: 1}} time-229.987
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.75, 1: 1}} time-238.956
+0.316 (+/-0.016) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.9, 1: 1}} time-227.536
+0.218 (+/-0.001) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.9, 1: 1}} time-234.183
+0.213 (+/-0.000) for {'kernel': 'rbf', 'C': 1, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.9, 1: 1}} time-227.253
+0.338 (+/-0.005) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.25, 1: 1}} time-225.655
+0.230 (+/-0.001) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.25, 1: 1}} time-238.311
+0.214 (+/-0.000) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.25, 1: 1}} time-240.392
+0.498 (+/-0.031) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.5, 1: 1}} time-229.144
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.5, 1: 1}} time-230.469
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.5, 1: 1}} time-237.203
+0.536 (+/-0.048) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.75, 1: 1}} time-236.352
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.75, 1: 1}} time-235.085
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.75, 1: 1}} time-226.596
+0.517 (+/-0.018) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.9, 1: 1}} time-220.816
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.9, 1: 1}} time-236.164
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 4, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.9, 1: 1}} time-239.060
+0.535 (+/-0.059) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.25, 1: 1}} time-231.077
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.25, 1: 1}} time-221.249
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.25, 1: 1}} time-225.248
+0.532 (+/-0.023) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.5, 1: 1}} time-227.286
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.5, 1: 1}} time-232.886
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.5, 1: 1}} time-232.195
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.75, 1: 1}} time-229.469
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.75, 1: 1}} time-234.847
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.75, 1: 1}} time-239.050
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.9, 1: 1}} time-226.521
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.9, 1: 1}} time-218.958
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 16, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.9, 1: 1}} time-225.419
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.25, 1: 1}} time-234.533
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.25, 1: 1}} time-238.376
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.25, 1: 1}} time-231.071
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.5, 1: 1}} time-220.678
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.5, 1: 1}} time-229.881
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.5, 1: 1}} time-238.232
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.75, 1: 1}} time-229.308
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.75, 1: 1}} time-225.412
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.75, 1: 1}} time-231.429
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.9, 1: 1}} time-233.342
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.9, 1: 1}} time-237.145
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 64, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.9, 1: 1}} time-238.041
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.25, 1: 1}} time-231.041
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.25, 1: 1}} time-231.313
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.25, 1: 1}} time-239.683
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.5, 1: 1}} time-235.804
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.5, 1: 1}} time-231.613
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.5, 1: 1}} time-235.465
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.75, 1: 1}} time-232.951
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.75, 1: 1}} time-241.080
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.75, 1: 1}} time-236.621
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.9, 1: 1}} time-224.864
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.9, 1: 1}} time-240.513
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 256, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.9, 1: 1}} time-244.674
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.25, 1: 1}} time-234.482
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.25, 1: 1}} time-234.101
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.25, 1: 1}} time-233.927
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.5, 1: 1}} time-235.625
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.5, 1: 1}} time-236.951
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.5, 1: 1}} time-232.614
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.75, 1: 1}} time-219.106
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.75, 1: 1}} time-228.916
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.75, 1: 1}} time-232.050
+0.529 (+/-0.029) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.015625, 'class_weight': {0: 0.9, 1: 1}} time-230.965
+0.255 (+/-0.004) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.0625, 'class_weight': {0: 0.9, 1: 1}} time-230.648
+0.216 (+/-0.000) for {'kernel': 'rbf', 'C': 1024, 'max_iter': 1000, 'tol': 0.01, 'cache_size': 1000, 'gamma': 0.25, 'class_weight': {0: 0.9, 1: 1}} time-217.614
+()
+Detailed classification report:
+()
+The model is trained on the full development set.
+The scores are computed on the full evaluation set.
+()
+             precision    recall  f1-score   support
+
+          0       1.00      0.78      0.87     30382
+          1       0.37      0.99      0.54      4034
+
+avg / total       0.92      0.80      0.84     34416
+
+()
+done
+
+
+Downsampling - 1:2
+
+clf = SVC(kernel='rbf',C=16,gamma=0.015625,class_weight={0: 1 , 1:1}, cache_size=1000, tol=1e-1, max_iter=100, verbose=True)
+             precision    recall  f1-score   support
+
+          0       0.90      0.99      0.94     30279
+          1       0.61      0.16      0.25      4137
+
+avg / total       0.86      0.89      0.86     34416
+
+
+clf = SVC(kernel='rbf',C=16,gamma=0.015625,class_weight={0: 1 , 1:1}, cache_size=1000, tol=1e-1, max_iter=1000, verbose=True)
+           precision    recall  f1-score   support
+
+          0       1.00      0.74      0.85     30279
+          1       0.34      0.98      0.51      4137
+
+avg / total       0.92      0.77      0.81     34416
+
+

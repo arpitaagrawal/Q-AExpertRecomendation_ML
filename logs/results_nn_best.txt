@@ -1,0 +1,115 @@
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.96      0.96     20186
+        1.0       0.70      0.75      0.73      2758
+
+avg / total       0.93      0.93      0.93     22944
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.96      0.96     20251
+        1.0       0.70      0.75      0.72      2693
+
+avg / total       0.94      0.93      0.93     22944
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.96      0.96     20138
+        1.0       0.72      0.74      0.73      2806
+
+avg / total       0.93      0.93      0.93     22944
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.96      0.96     20268
+        1.0       0.69      0.73      0.71      2676
+
+avg / total       0.93      0.93      0.93     22944
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.96      0.96     20276
+        1.0       0.70      0.76      0.73      2668
+
+avg / total       0.94      0.93      0.93     22944
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+
+WITH TEST DATA AS 20%
+
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.96      0.96     40340
+        1.0       0.71      0.73      0.72      5548
+
+avg / total       0.93      0.93      0.93     45888
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.96      0.96     40451
+        1.0       0.71      0.75      0.73      5437
+
+avg / total       0.94      0.93      0.93     45888
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.96      0.96     40412
+        1.0       0.71      0.74      0.73      5476
+
+avg / total       0.93      0.93      0.93     45888
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.96      0.96     40436
+        1.0       0.72      0.75      0.73      5452
+
+avg / total       0.94      0.94      0.94     45888
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.96      0.96     40400
+        1.0       0.70      0.72      0.71      5488
+
+avg / total       0.93      0.93      0.93     45888
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.96      0.96     40411
+        1.0       0.71      0.74      0.73      5477
+
+avg / total       0.93      0.93      0.93     45888
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 512, 2] 1e-06 1e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.96      0.96     40517
+        1.0       0.71      0.72      0.72      5371
+
+avg / total       0.93      0.93      0.93     45888
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 1024, 2] 1e-05 5e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.96      0.96     40333
+        1.0       0.74      0.75      0.75      5555
+
+avg / total       0.94      0.94      0.94     45888
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 1024, 2] 1e-05 5e-05 1
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.96      0.96     40445
+        1.0       0.70      0.73      0.71      5443
+
+avg / total       0.93      0.93      0.93     45888
+
+arch, reg_coeff, sgd_decay, class_weight_0 [354, 1024, 1024, 2] 1e-05 5e-05 1

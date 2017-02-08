@@ -1,0 +1,2480 @@
+It includes history features
+             
+precision    recall  f1-score   support
+
+        0.0       0.88      0.95      0.92     30264
+        1.0       0.15      0.06      0.08      4152
+
+avg / total       0.79      0.84      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30286
+        1.0       0.67      0.80      0.73      4130
+
+avg / total       0.94      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.94      0.94     30329
+        1.0       0.55      0.58      0.56      4087
+
+avg / total       0.90      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30376
+        1.0       0.60      0.82      0.69      4040
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.91      0.93     30274
+        1.0       0.51      0.65      0.57      4142
+
+avg / total       0.90      0.88      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30322
+        1.0       0.57      0.49      0.53      4094
+
+avg / total       0.89      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30362
+        1.0       0.59      0.79      0.68      4054
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30276
+        1.0       0.66      0.78      0.72      4140
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30418
+        1.0       0.52      0.43      0.47      3998
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30262
+        1.0       0.62      0.81      0.70      4154
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30232
+        1.0       0.64      0.78      0.71      4184
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.93      0.93     30326
+        1.0       0.51      0.58      0.54      4090
+
+avg / total       0.89      0.88      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.87      0.88     30374
+        1.0       0.16      0.19      0.18      4042
+
+avg / total       0.80      0.79      0.80     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30353
+        1.0       0.66      0.78      0.72      4063
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.94     30232
+        1.0       0.54      0.53      0.53      4184
+
+avg / total       0.89      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30354
+        1.0       0.59      0.80      0.68      4062
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30232
+        1.0       0.63      0.76      0.68      4184
+
+avg / total       0.92      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30309
+        1.0       0.51      0.50      0.51      4107
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-06 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30337
+        1.0       0.61      0.81      0.69      4079
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30233
+        1.0       0.65      0.76      0.70      4183
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30353
+        1.0       0.68      0.77      0.72      4063
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.98      0.92      0.95     30310
+        1.0       0.59      0.83      0.69      4106
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.92      0.92     30310
+        1.0       0.39      0.39      0.39      4106
+
+avg / total       0.85      0.85      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.93      0.93     30287
+        1.0       0.49      0.49      0.49      4129
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30398
+        1.0       0.58      0.79      0.67      4018
+
+avg / total       0.93      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.93      0.93     30335
+        1.0       0.50      0.56      0.53      4081
+
+avg / total       0.89      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.93      0.93     30289
+        1.0       0.49      0.47      0.48      4127
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.83      0.88     30299
+        1.0       0.31      0.57      0.40      4117
+
+avg / total       0.86      0.80      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.90      0.92     30293
+        1.0       0.47      0.62      0.53      4123
+
+avg / total       0.89      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.94     30393
+        1.0       0.52      0.50      0.51      4023
+
+avg / total       0.89      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.88      0.88     30329
+        1.0       0.19      0.21      0.20      4087
+
+avg / total       0.81      0.80      0.80     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.92      0.93     30255
+        1.0       0.48      0.53      0.50      4161
+
+avg / total       0.88      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.93      0.93     30336
+        1.0       0.51      0.54      0.52      4080
+
+avg / total       0.89      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-06 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30211
+        1.0       0.61      0.80      0.69      4205
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.93      0.93     30271
+        1.0       0.53      0.58      0.55      4145
+
+avg / total       0.89      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.92      0.93     30323
+        1.0       0.45      0.45      0.45      4093
+
+avg / total       0.87      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30380
+        1.0       0.62      0.82      0.70      4036
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30203
+        1.0       0.68      0.79      0.73      4213
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.94      0.94     30275
+        1.0       0.55      0.55      0.55      4141
+
+avg / total       0.89      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30281
+        1.0       0.61      0.81      0.69      4135
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.88      0.91     30379
+        1.0       0.37      0.51      0.43      4037
+
+avg / total       0.86      0.84      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30177
+        1.0       0.53      0.49      0.51      4239
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.85      0.88     30320
+        1.0       0.24      0.37      0.29      4096
+
+avg / total       0.83      0.79      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.95      0.92     30345
+        1.0       0.27      0.14      0.18      4071
+
+avg / total       0.82      0.85      0.83     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30358
+        1.0       0.55      0.50      0.52      4058
+
+avg / total       0.89      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30251
+        1.0       0.60      0.80      0.69      4165
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30387
+        1.0       0.64      0.75      0.69      4029
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.93      0.93     30286
+        1.0       0.48      0.47      0.48      4130
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30215
+        1.0       0.63      0.83      0.72      4201
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30331
+        1.0       0.64      0.78      0.70      4085
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30286
+        1.0       0.57      0.43      0.49      4130
+
+avg / total       0.88      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.98      0.93      0.95     30257
+        1.0       0.63      0.83      0.71      4159
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.96     30352
+        1.0       0.65      0.79      0.71      4064
+
+avg / total       0.93      0.92      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30200
+        1.0       0.60      0.40      0.48      4216
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30309
+        1.0       0.61      0.80      0.69      4107
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.91      0.93     30270
+        1.0       0.49      0.64      0.55      4146
+
+avg / total       0.89      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.95      0.94     30419
+        1.0       0.58      0.52      0.55      3997
+
+avg / total       0.90      0.90      0.90     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.89      0.92     30286
+        1.0       0.46      0.67      0.55      4130
+
+avg / total       0.89      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.96     30338
+        1.0       0.66      0.78      0.71      4078
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.92      0.92     30326
+        1.0       0.45      0.50      0.47      4090
+
+avg / total       0.87      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.90      0.93     30276
+        1.0       0.48      0.72      0.58      4140
+
+avg / total       0.90      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.92      0.93     30309
+        1.0       0.50      0.59      0.54      4107
+
+avg / total       0.89      0.88      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.95      0.95     30341
+        1.0       0.61      0.54      0.57      4075
+
+avg / total       0.90      0.90      0.90     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 5e-05 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.89      0.90     30347
+        1.0       0.30      0.37      0.33      4069
+
+avg / total       0.84      0.82      0.83     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.92      0.93     30322
+        1.0       0.52      0.62      0.56      4094
+
+avg / total       0.90      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.94     30407
+        1.0       0.52      0.49      0.51      4009
+
+avg / total       0.89      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.92      0.95     30298
+        1.0       0.59      0.82      0.69      4118
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30302
+        1.0       0.66      0.78      0.72      4114
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.93      0.93     30326
+        1.0       0.45      0.41      0.43      4090
+
+avg / total       0.87      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.82      0.86     30345
+        1.0       0.24      0.43      0.31      4071
+
+avg / total       0.84      0.77      0.80     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.88      0.90     30303
+        1.0       0.35      0.47      0.40      4113
+
+avg / total       0.86      0.83      0.84     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30240
+        1.0       0.53      0.49      0.51      4176
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30293
+        1.0       0.61      0.81      0.70      4123
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30347
+        1.0       0.68      0.77      0.72      4069
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30385
+        1.0       0.50      0.45      0.48      4031
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.92      0.95     30279
+        1.0       0.58      0.78      0.67      4137
+
+avg / total       0.92      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.94      0.95     30233
+        1.0       0.64      0.75      0.69      4183
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.95      0.95     30381
+        1.0       0.59      0.55      0.57      4035
+
+avg / total       0.90      0.90      0.90     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 0.0005 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.90      0.92     30235
+        1.0       0.48      0.68      0.56      4181
+
+avg / total       0.90      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30312
+        1.0       0.51      0.50      0.51      4104
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30300
+        1.0       0.55      0.36      0.44      4116
+
+avg / total       0.87      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30297
+        1.0       0.62      0.79      0.70      4119
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30322
+        1.0       0.70      0.76      0.73      4094
+
+avg / total       0.94      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30285
+        1.0       0.59      0.50      0.54      4131
+
+avg / total       0.89      0.90      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.88      0.91     30317
+        1.0       0.40      0.57      0.47      4099
+
+avg / total       0.87      0.85      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.94      0.95     30289
+        1.0       0.59      0.69      0.64      4127
+
+avg / total       0.91      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30368
+        1.0       0.54      0.47      0.50      4048
+
+avg / total       0.88      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.89      0.89     30295
+        1.0       0.22      0.22      0.22      4121
+
+avg / total       0.81      0.81      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.96      0.92     30414
+        1.0       0.29      0.13      0.18      4002
+
+avg / total       0.82      0.86      0.84     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.97      0.93     30246
+        1.0       0.50      0.24      0.33      4170
+
+avg / total       0.85      0.88      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30294
+        1.0       0.59      0.79      0.68      4122
+
+avg / total       0.93      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.93      0.90     30263
+        1.0       0.14      0.09      0.11      4153
+
+avg / total       0.79      0.83      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.97      0.94     30383
+        1.0       0.58      0.26      0.36      4033
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30346
+        1.0       0.63      0.78      0.70      4070
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.92      0.93     30233
+        1.0       0.48      0.57      0.52      4183
+
+avg / total       0.88      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.94      0.93     30277
+        1.0       0.47      0.38      0.42      4139
+
+avg / total       0.86      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.89      0.91     30341
+        1.0       0.42      0.62      0.50      4075
+
+avg / total       0.88      0.85      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30268
+        1.0       0.68      0.78      0.72      4148
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.94      0.93     30454
+        1.0       0.46      0.40      0.43      3962
+
+avg / total       0.87      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.93      0.91     30420
+        1.0       0.19      0.12      0.15      3996
+
+avg / total       0.81      0.83      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30250
+        1.0       0.60      0.42      0.49      4166
+
+avg / total       0.88      0.90      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.97      0.94     30350
+        1.0       0.61      0.33      0.43      4066
+
+avg / total       0.88      0.90      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.92      0.90     30318
+        1.0       0.18      0.13      0.15      4098
+
+avg / total       0.80      0.83      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.91      0.93     30312
+        1.0       0.47      0.60      0.53      4104
+
+avg / total       0.89      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.96      0.93     30235
+        1.0       0.52      0.32      0.40      4181
+
+avg / total       0.86      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30307
+        1.0       0.60      0.77      0.67      4109
+
+avg / total       0.92      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.92      0.93     30372
+        1.0       0.47      0.51      0.49      4044
+
+avg / total       0.88      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.98      0.94     30371
+        1.0       0.60      0.26      0.36      4045
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-06 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.86      0.91     30207
+        1.0       0.41      0.70      0.52      4209
+
+avg / total       0.89      0.84      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.93      0.92     30343
+        1.0       0.42      0.38      0.40      4073
+
+avg / total       0.86      0.87      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.96      0.93     30260
+        1.0       0.51      0.31      0.39      4156
+
+avg / total       0.86      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30357
+        1.0       0.63      0.80      0.71      4059
+
+avg / total       0.93      0.92      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.97      0.92     30422
+        1.0       0.17      0.05      0.08      3994
+
+avg / total       0.80      0.86      0.83     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.99      0.94     30292
+        1.0       0.49      0.10      0.17      4124
+
+avg / total       0.84      0.88      0.84     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30309
+        1.0       0.61      0.81      0.69      4107
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.96      0.96     30311
+        1.0       0.69      0.74      0.71      4105
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.96      0.94     30395
+        1.0       0.50      0.32      0.39      4021
+
+avg / total       0.87      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30294
+        1.0       0.59      0.78      0.67      4122
+
+avg / total       0.92      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.94     30342
+        1.0       0.52      0.47      0.49      4074
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30396
+        1.0       0.62      0.21      0.31      4020
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.81      0.85     30305
+        1.0       0.15      0.26      0.19      4111
+
+avg / total       0.80      0.74      0.77     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.93      0.93     30343
+        1.0       0.49      0.48      0.48      4073
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30239
+        1.0       0.57      0.50      0.53      4177
+
+avg / total       0.89      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-05 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.96      0.92     30372
+        1.0       0.10      0.03      0.05      4044
+
+avg / total       0.79      0.85      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30369
+        1.0       0.66      0.75      0.70      4047
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.98      0.94     30393
+        1.0       0.62      0.28      0.38      4023
+
+avg / total       0.88      0.90      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.93      0.91     30408
+        1.0       0.21      0.15      0.17      4008
+
+avg / total       0.81      0.84      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.93      0.93     30343
+        1.0       0.46      0.47      0.47      4073
+
+avg / total       0.87      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.98      0.94     30324
+        1.0       0.63      0.29      0.40      4092
+
+avg / total       0.88      0.90      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.81      0.86     30408
+        1.0       0.21      0.38      0.27      4008
+
+avg / total       0.83      0.76      0.79     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.96      0.92     30320
+        1.0       0.21      0.08      0.12      4096
+
+avg / total       0.80      0.85      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.97      0.93     30325
+        1.0       0.50      0.24      0.33      4091
+
+avg / total       0.86      0.88      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.94      0.95     30298
+        1.0       0.62      0.75      0.68      4118
+
+avg / total       0.92      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.93      0.94     30314
+        1.0       0.53      0.59      0.56      4102
+
+avg / total       0.89      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30279
+        1.0       0.61      0.23      0.33      4137
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30330
+        1.0       0.61      0.76      0.68      4086
+
+avg / total       0.92      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.93      0.93     30295
+        1.0       0.45      0.43      0.44      4121
+
+avg / total       0.87      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.96      0.94     30290
+        1.0       0.52      0.29      0.37      4126
+
+avg / total       0.86      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 5e-05 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30310
+        1.0       0.63      0.80      0.71      4106
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.94      0.95     30317
+        1.0       0.63      0.75      0.69      4099
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.98      0.94     30289
+        1.0       0.68      0.26      0.38      4127
+
+avg / total       0.88      0.90      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.90      0.92     30361
+        1.0       0.46      0.67      0.55      4055
+
+avg / total       0.90      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.94      0.93     30414
+        1.0       0.45      0.36      0.40      4002
+
+avg / total       0.86      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.95      0.93     30201
+        1.0       0.52      0.37      0.43      4215
+
+avg / total       0.87      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.85      0.87     30343
+        1.0       0.12      0.15      0.14      4073
+
+avg / total       0.79      0.77      0.78     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.97      0.92     30289
+        1.0       0.22      0.06      0.10      4127
+
+avg / total       0.80      0.86      0.83     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.97      0.94     30300
+        1.0       0.63      0.31      0.42      4116
+
+avg / total       0.88      0.90      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30318
+        1.0       0.60      0.77      0.67      4098
+
+avg / total       0.92      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30333
+        1.0       0.51      0.48      0.49      4083
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.97      0.93     30359
+        1.0       0.41      0.14      0.21      4057
+
+avg / total       0.84      0.87      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30366
+        1.0       0.59      0.77      0.67      4050
+
+avg / total       0.92      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.95      0.94     30325
+        1.0       0.54      0.41      0.47      4091
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.95      0.93     30277
+        1.0       0.44      0.30      0.36      4139
+
+avg / total       0.85      0.87      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 0.0005 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30202
+        1.0       0.62      0.78      0.69      4214
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.92      0.92     30252
+        1.0       0.45      0.49      0.47      4164
+
+avg / total       0.87      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.96      0.94     30288
+        1.0       0.59      0.45      0.51      4128
+
+avg / total       0.89      0.90      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.92      0.90     30331
+        1.0       0.14      0.10      0.12      4085
+
+avg / total       0.80      0.82      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30332
+        1.0       0.51      0.48      0.50      4084
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.97      0.94     30401
+        1.0       0.51      0.20      0.29      4015
+
+avg / total       0.86      0.88      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.96     30343
+        1.0       0.64      0.80      0.71      4073
+
+avg / total       0.93      0.92      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.93      0.93     30322
+        1.0       0.50      0.54      0.52      4094
+
+avg / total       0.89      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.99      0.94     30319
+        1.0       0.62      0.18      0.28      4097
+
+avg / total       0.87      0.89      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30340
+        1.0       0.61      0.76      0.68      4076
+
+avg / total       0.92      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30306
+        1.0       0.55      0.45      0.49      4110
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.97      0.93     30308
+        1.0       0.28      0.08      0.13      4108
+
+avg / total       0.81      0.86      0.83     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.83      0.85     30198
+        1.0       0.11      0.15      0.13      4218
+
+avg / total       0.78      0.75      0.77     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.94      0.91     30298
+        1.0       0.16      0.08      0.11      4118
+
+avg / total       0.80      0.84      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.97      0.93     30436
+        1.0       0.40      0.17      0.24      3980
+
+avg / total       0.84      0.87      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-06 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.87      0.91     30329
+        1.0       0.40      0.65      0.50      4087
+
+avg / total       0.88      0.84      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.96      0.92     30354
+        1.0       0.16      0.06      0.09      4062
+
+avg / total       0.80      0.85      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.98      0.93     30328
+        1.0       0.39      0.09      0.14      4088
+
+avg / total       0.83      0.88      0.84     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.89      0.91     30290
+        1.0       0.41      0.56      0.47      4126
+
+avg / total       0.87      0.85      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30375
+        1.0       0.67      0.74      0.71      4041
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.97      0.94     30394
+        1.0       0.57      0.34      0.43      4022
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30334
+        1.0       0.59      0.76      0.67      4082
+
+avg / total       0.92      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.92      0.93     30294
+        1.0       0.50      0.56      0.52      4122
+
+avg / total       0.89      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30344
+        1.0       0.55      0.37      0.44      4072
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30350
+        1.0       0.63      0.79      0.70      4066
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.95      0.95     30342
+        1.0       0.65      0.69      0.67      4074
+
+avg / total       0.92      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.95      0.94     30333
+        1.0       0.53      0.39      0.45      4083
+
+avg / total       0.87      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.86      0.87     30306
+        1.0       0.19      0.24      0.21      4110
+
+avg / total       0.81      0.78      0.79     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30312
+        1.0       0.55      0.37      0.44      4104
+
+avg / total       0.87      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.97      0.94     30390
+        1.0       0.59      0.36      0.45      4026
+
+avg / total       0.88      0.90      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-06 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.89      0.92     30292
+        1.0       0.45      0.67      0.54      4124
+
+avg / total       0.89      0.86      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30320
+        1.0       0.57      0.51      0.54      4096
+
+avg / total       0.89      0.90      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.97      0.94     30307
+        1.0       0.58      0.35      0.44      4109
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.96     30299
+        1.0       0.64      0.81      0.71      4117
+
+avg / total       0.93      0.92      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.94      0.91     30301
+        1.0       0.18      0.09      0.12      4115
+
+avg / total       0.80      0.84      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.98      0.94     30343
+        1.0       0.58      0.25      0.35      4073
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.96     30317
+        1.0       0.64      0.80      0.71      4099
+
+avg / total       0.93      0.92      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30279
+        1.0       0.69      0.77      0.73      4137
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30394
+        1.0       0.51      0.33      0.40      4022
+
+avg / total       0.87      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.90      0.92     30293
+        1.0       0.43      0.54      0.48      4123
+
+avg / total       0.87      0.86      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30334
+        1.0       0.59      0.39      0.47      4082
+
+avg / total       0.88      0.90      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.98      0.94     30299
+        1.0       0.68      0.30      0.42      4117
+
+avg / total       0.88      0.90      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30389
+        1.0       0.60      0.78      0.68      4027
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.95      0.96     30382
+        1.0       0.66      0.71      0.68      4034
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30354
+        1.0       0.54      0.15      0.24      4062
+
+avg / total       0.85      0.88      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.96     30313
+        1.0       0.64      0.81      0.72      4103
+
+avg / total       0.93      0.92      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30379
+        1.0       0.53      0.42      0.47      4037
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.95      0.93     30237
+        1.0       0.48      0.35      0.40      4179
+
+avg / total       0.86      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.87      0.88      0.88     30216
+        1.0       0.06      0.05      0.05      4200
+
+avg / total       0.77      0.78      0.78     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.93      0.92     30303
+        1.0       0.34      0.26      0.29      4113
+
+avg / total       0.83      0.85      0.84     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.95      0.94     30368
+        1.0       0.56      0.44      0.50      4048
+
+avg / total       0.88      0.89      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.82      0.85     30356
+        1.0       0.13      0.20      0.16      4060
+
+avg / total       0.80      0.75      0.77     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30255
+        1.0       0.56      0.37      0.44      4161
+
+avg / total       0.87      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30340
+        1.0       0.52      0.36      0.43      4076
+
+avg / total       0.87      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30363
+        1.0       0.64      0.76      0.69      4053
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.96      0.94     30229
+        1.0       0.56      0.32      0.41      4187
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.95      0.93     30315
+        1.0       0.48      0.36      0.41      4101
+
+avg / total       0.86      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.87      0.91     30230
+        1.0       0.40      0.65      0.50      4186
+
+avg / total       0.88      0.84      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.92      0.92     30366
+        1.0       0.43      0.48      0.46      4050
+
+avg / total       0.87      0.86      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.99      0.94     30291
+        1.0       0.70      0.25      0.36      4125
+
+avg / total       0.88      0.90      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 5e-05 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30316
+        1.0       0.62      0.80      0.69      4100
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.93      0.93     30356
+        1.0       0.50      0.50      0.50      4060
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30334
+        1.0       0.54      0.35      0.43      4082
+
+avg / total       0.87      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.90      0.92     30307
+        1.0       0.46      0.66      0.54      4109
+
+avg / total       0.89      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.92      0.93     30349
+        1.0       0.47      0.53      0.50      4067
+
+avg / total       0.88      0.87      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30269
+        1.0       0.61      0.22      0.33      4147
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.84      0.86     30342
+        1.0       0.09      0.11      0.10      4074
+
+avg / total       0.78      0.76      0.77     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.95      0.96     30311
+        1.0       0.66      0.74      0.70      4105
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.99      0.94     30254
+        1.0       0.69      0.19      0.30      4162
+
+avg / total       0.87      0.89      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.89      0.92     30345
+        1.0       0.44      0.64      0.52      4071
+
+avg / total       0.89      0.86      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.94      0.95     30249
+        1.0       0.62      0.66      0.64      4167
+
+avg / total       0.91      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.97      0.94     30416
+        1.0       0.53      0.29      0.38      4000
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30354
+        1.0       0.59      0.76      0.66      4062
+
+avg / total       0.92      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30297
+        1.0       0.67      0.75      0.71      4119
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.97      0.94     30220
+        1.0       0.56      0.26      0.35      4196
+
+avg / total       0.86      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 0.0005 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.78      0.83     30303
+        1.0       0.13      0.24      0.17      4113
+
+avg / total       0.79      0.72      0.75     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.94      0.93     30278
+        1.0       0.47      0.39      0.43      4138
+
+avg / total       0.86      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.98      0.93     30195
+        1.0       0.39      0.08      0.13      4221
+
+avg / total       0.82      0.87      0.83     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.90      0.89     30363
+        1.0       0.12      0.10      0.11      4053
+
+avg / total       0.79      0.81      0.80     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.95      0.93     30266
+        1.0       0.47      0.30      0.36      4150
+
+avg / total       0.86      0.87      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.88      1.00      0.94     30280
+        1.0       0.00      0.00      0.00      4136
+
+avg / total       0.77      0.88      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.93      0.95     30301
+        1.0       0.60      0.73      0.65      4115
+
+avg / total       0.92      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.97      0.94     30243
+        1.0       0.56      0.28      0.37      4173
+
+avg / total       0.86      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.99      0.93     30370
+        1.0       0.32      0.04      0.08      4046
+
+avg / total       0.82      0.88      0.83     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.94      0.89      0.91     30302
+        1.0       0.42      0.56      0.48      4114
+
+avg / total       0.87      0.85      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30233
+        1.0       0.58      0.37      0.45      4183
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.98      0.94     30189
+        1.0       0.62      0.27      0.38      4227
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.96      0.92     30402
+        1.0       0.12      0.04      0.06      4014
+
+avg / total       0.79      0.85      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.91      0.90     30344
+        1.0       0.17      0.14      0.16      4072
+
+avg / total       0.80      0.82      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.99      0.94     30390
+        1.0       0.67      0.22      0.33      4026
+
+avg / total       0.88      0.90      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-06 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.93      0.93     30417
+        1.0       0.48      0.50      0.49      3999
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30351
+        1.0       0.50      0.46      0.48      4065
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.97      0.93     30269
+        1.0       0.45      0.19      0.27      4147
+
+avg / total       0.84      0.87      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.95      0.92     30421
+        1.0       0.18      0.09      0.12      3995
+
+avg / total       0.81      0.85      0.82     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.91      0.92     30299
+        1.0       0.44      0.49      0.46      4117
+
+avg / total       0.87      0.86      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.99      0.94     30274
+        1.0       0.65      0.17      0.27      4142
+
+avg / total       0.87      0.89      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30288
+        1.0       0.62      0.77      0.69      4128
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.95      0.93     30313
+        1.0       0.49      0.35      0.41      4103
+
+avg / total       0.86      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.96      0.94     30432
+        1.0       0.53      0.31      0.39      3984
+
+avg / total       0.87      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30352
+        1.0       0.60      0.78      0.68      4064
+
+avg / total       0.93      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30304
+        1.0       0.51      0.47      0.49      4112
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30282
+        1.0       0.59      0.21      0.31      4134
+
+avg / total       0.86      0.89      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.93      0.95     30299
+        1.0       0.58      0.75      0.65      4117
+
+avg / total       0.92      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.96      0.93     30333
+        1.0       0.50      0.32      0.39      4083
+
+avg / total       0.86      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30322
+        1.0       0.53      0.16      0.25      4094
+
+avg / total       0.85      0.88      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-06 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.94      0.95     30260
+        1.0       0.65      0.78      0.70      4156
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.95      0.93     30293
+        1.0       0.48      0.36      0.41      4123
+
+avg / total       0.86      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.99      0.94     30227
+        1.0       0.62      0.10      0.17      4189
+
+avg / total       0.86      0.88      0.84     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30205
+        1.0       0.62      0.77      0.68      4211
+
+avg / total       0.92      0.91      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30297
+        1.0       0.58      0.39      0.46      4119
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30297
+        1.0       0.50      0.18      0.26      4119
+
+avg / total       0.85      0.88      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.89      0.89     30427
+        1.0       0.15      0.15      0.15      3989
+
+avg / total       0.80      0.81      0.80     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.93      0.92     30421
+        1.0       0.41      0.39      0.40      3995
+
+avg / total       0.86      0.86      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.99      0.94     30298
+        1.0       0.50      0.09      0.16      4118
+
+avg / total       0.84      0.88      0.84     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.93      0.95     30293
+        1.0       0.60      0.74      0.67      4123
+
+avg / total       0.92      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.97      0.94     30317
+        1.0       0.56      0.28      0.37      4099
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30315
+        1.0       0.53      0.16      0.25      4101
+
+avg / total       0.85      0.88      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.79      0.84     30307
+        1.0       0.15      0.28      0.20      4109
+
+avg / total       0.80      0.73      0.76     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.95      0.95     30329
+        1.0       0.63      0.63      0.63      4087
+
+avg / total       0.91      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.99      0.94     30379
+        1.0       0.69      0.12      0.21      4037
+
+avg / total       0.87      0.89      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 1e-05 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.95      0.92     30355
+        1.0       0.21      0.10      0.13      4061
+
+avg / total       0.81      0.85      0.83     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.93      0.93     30298
+        1.0       0.49      0.45      0.47      4118
+
+avg / total       0.87      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.97      0.94     30260
+        1.0       0.64      0.33      0.44      4156
+
+avg / total       0.88      0.90      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.81      0.85     30245
+        1.0       0.20      0.34      0.25      4171
+
+avg / total       0.81      0.76      0.78     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30281
+        1.0       0.54      0.37      0.44      4135
+
+avg / total       0.87      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.99      0.94     30343
+        1.0       0.50      0.04      0.08      4073
+
+avg / total       0.84      0.88      0.84     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.92      0.90     30321
+        1.0       0.17      0.12      0.14      4095
+
+avg / total       0.80      0.83      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.93     30374
+        1.0       0.51      0.45      0.48      4042
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30345
+        1.0       0.51      0.18      0.26      4071
+
+avg / total       0.85      0.88      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.91      0.93     30354
+        1.0       0.49      0.67      0.56      4062
+
+avg / total       0.90      0.88      0.89     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.94      0.95     30304
+        1.0       0.61      0.67      0.64      4112
+
+avg / total       0.91      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.97      0.94     30326
+        1.0       0.54      0.23      0.32      4090
+
+avg / total       0.86      0.89      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.99      0.94     30401
+        1.0       0.02      0.00      0.00      4015
+
+avg / total       0.78      0.88      0.83     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.94      0.93     30332
+        1.0       0.49      0.42      0.45      4084
+
+avg / total       0.87      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.99      0.94     30329
+        1.0       0.70      0.24      0.36      4087
+
+avg / total       0.88      0.90      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 5e-05 0.0005 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.95      0.91     30236
+        1.0       0.08      0.03      0.04      4180
+
+avg / total       0.78      0.84      0.81     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 1e-06 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.93      0.93     30267
+        1.0       0.50      0.50      0.50      4149
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 1e-06 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.98      0.93     30354
+        1.0       0.46      0.13      0.21      4062
+
+avg / total       0.84      0.88      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 1e-06 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.93      0.95     30361
+        1.0       0.62      0.78      0.69      4055
+
+avg / total       0.93      0.92      0.92     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 1e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.96      0.94     30309
+        1.0       0.57      0.41      0.47      4107
+
+avg / total       0.88      0.89      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 1e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.97      0.94     30267
+        1.0       0.56      0.29      0.38      4149
+
+avg / total       0.87      0.89      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 1e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.92      0.92     30225
+        1.0       0.46      0.50      0.48      4191
+
+avg / total       0.87      0.87      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 5e-05 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.93      0.94      0.94     30372
+        1.0       0.51      0.44      0.47      4044
+
+avg / total       0.88      0.88      0.88     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 5e-05 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.90      0.98      0.94     30276
+        1.0       0.60      0.20      0.30      4140
+
+avg / total       0.86      0.89      0.86     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 5e-05 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.96      0.93      0.95     30367
+        1.0       0.58      0.73      0.65      4049
+
+avg / total       0.92      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 0.0001 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.92      0.94      0.93     30400
+        1.0       0.48      0.39      0.43      4016
+
+avg / total       0.87      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 0.0001 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.89      0.99      0.94     30289
+        1.0       0.65      0.10      0.17      4127
+
+avg / total       0.86      0.89      0.85     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 0.0001 1 3
+             precision    recall  f1-score   support
+
+        0.0       0.88      0.86      0.87     30283
+        1.0       0.13      0.15      0.14      4133
+
+avg / total       0.79      0.78      0.78     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 0.0005 1 2
+             precision    recall  f1-score   support
+
+        0.0       0.95      0.95      0.95     30277
+        1.0       0.63      0.65      0.64      4139
+
+avg / total       0.91      0.91      0.91     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 0.0005 1 2.5
+             precision    recall  f1-score   support
+
+        0.0       0.91      0.96      0.93     30361
+        1.0       0.48      0.29      0.36      4055
+
+avg / total       0.86      0.88      0.87     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 256, 2] 0.0005 0.0005 1 3
+
+
+BEST MODEL
+        1.0       0.70      0.76      0.73      4094
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 1e-05 1 2.5
+
+
+precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30286
+        1.0       0.67      0.80      0.73      4130
+
+avg / total       0.94      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-05 1 2.5
+--
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30203
+        1.0       0.68      0.79      0.73      4213
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 2] 1e-05 1e-05 1 2.5
+--
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30322
+        1.0       0.70      0.76      0.73      4094
+
+avg / total       0.94      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 512, 2] 1e-06 1e-05 1 2.5
+--
+             precision    recall  f1-score   support
+
+        0.0       0.97      0.95      0.96     30279
+        1.0       0.69      0.77      0.73      4137
+
+avg / total       0.93      0.93      0.93     34416
+
+arch, reg_coeff, sgd_decay, class_weight_0, subsample_size [354, 1024, 1024, 2] 1e-05 5e-05 1 2.5
+
+
+MODEL - 17
+run_NN([len(features[0]),1024, 512, 2], 1e-06, 1e-05, 1, 2.5, False)
+run_NN([len(features[0]),1024, 512, 2], 1e-06, 1e-05, 1, 2.5, False)
+run_NN([len(features[0]),1024, 512, 2], 1e-06, 1e-05, 1, 2.5, False)
+run_NN([len(features[0]),1024, 512, 2], 1e-06, 1e-05, 1, 2.5, False)
+run_NN([len(features[0]),1024, 512, 2], 1e-06, 1e-05, 1, 2.5, False)
+run_NN([len(features[0]),1024, 512, 2], 1e-06, 1e-05, 1, 2.5, False)
+run_NN([len(features[0]),1024, 1024, 2], 1e-05, 5e-05, 1, 2.5, False)
+run_NN([len(features[0]),1024, 1024, 2], 1e-05, 5e-05, 1, 2.5, False)
+run_NN([len(features[0]),1024, 1024, 2], 1e-05, 5e-05, 1, 2.5, False)
